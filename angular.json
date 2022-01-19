@@ -112,8 +112,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "bookshelf_v1:build:production",
-            "firebaseProject": "bookshelfv2-43e39",
-            "firebaseHostingSite": "bookshelfv2-43e39"
+            "firebaseProject": "bookshelfv1-f7fac",
+            "firebaseHostingSite": "bookshelfv1-f7fac"
           }
         }
       }
