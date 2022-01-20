@@ -12,7 +12,7 @@ import { Observable, catchError, of } from 'rxjs';
 })
 export class FeedComponent {
   cards$: Observable<Dashboard[]>;
-  usuario={userName: 'Pedro Grama', icone:'remember_me'};
+  usuario={userName: 'Victor Icoma', icone:'remember_me'};
   cards = this.breakpointObserver.observe(Breakpoints.Handset).pipe(
     map(({ matches }) => {
       if (matches) {
